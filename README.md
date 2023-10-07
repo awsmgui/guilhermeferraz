@@ -15,7 +15,7 @@ Procuro melhorar o desempenho de aplicações WEB, projetos pessoais e meu conhe
 ### Livros que estou lendo (Ordem de inicio)
 - [Entendendo Algoritimos](https://a.co/d/ddxpTwm)
 - [Codigo Limpo](https://a.co/d/aF1qeVT)
-- [14 Hábitos de Desenvolvedores Altamente Produtivos](https://amzn.to/30b0DvM)
+- [14 Hábitos de Desenvolvedores Altamente Produtivos](https://a.co/d/4DrckWM)
 
 
 ## Redes
@@ -27,4 +27,4 @@ Procuro melhorar o desempenho de aplicações WEB, projetos pessoais e meu conhe
 Console.WriteLine("pagina simples mas feita com amor")
 
 
-Se puder pode colocar uma estrelinha no [repo](https://github.com/awsmgui/guilhermeferraz.com) dela;
+Se puder pode colocar uma estrelinha no [repo](https://github.com/awsmgui/guilhermeferraz.com) dela eu agradeço;
