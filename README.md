@@ -23,8 +23,8 @@ Procuro melhorar o desempenho de aplicações WEB, projetos pessoais e meu conhe
 
 [Linkedin](www.linkedin.com/in/guilhermeferraz2) se precisar de informações profissionais;
 
-
+```
 Console.WriteLine("pagina simples mas feita com amor")
-
+```
 
 Se puder pode colocar uma estrelinha no [repo](https://github.com/awsmgui/guilhermeferraz.com) dela eu agradeço;
