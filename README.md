@@ -27,4 +27,4 @@ Procuro melhorar o desempenho de aplicações WEB, projetos pessoais e meu conhe
 Console.WriteLine("pagina simples mas feita com amor")
 
 
-Se puder pode colocar uma estrelinha no [repo](https://github.com/lucasmontano/lucasmontano.com/) dela;
+Se puder pode colocar uma estrelinha no [repo](https://github.com/awsmgui/guilhermeferraz.com) dela;
