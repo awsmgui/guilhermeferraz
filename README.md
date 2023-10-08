@@ -3,7 +3,9 @@
 esse site é meu site pessoal onde estarão todos os meus projetos, trabalhos e informações;
 
 ## Quem sou eu?
-Sou estudante de programação BACK-END, atualmente estou estudando e fazendo projetos com C# usando o .NET Core, ASP.NET CORE e PostgreSQL.
+Comecei meus estudos na área de tecnologia por meio do curso técnico de TI na escola ETEC de Mauá em 2017.
+Atualmente estou cursando Analise e Desenvolvimento de Sistemas, buscando estágio.
+Sou estudante de programação Back-End, atualmente estou estudando e fazendo projetos com C# usando o .NET Core, ASP.NET CORE e PostgreSQL.
 Possuo conhecimentos em HTML, CSS e JavaScript;
 
 Aqui eu tenho organizado todos os links de contato, github e afins;
@@ -24,7 +26,7 @@ Procuro melhorar o desempenho de aplicações WEB, projetos pessoais e meu conhe
 [Linkedin](www.linkedin.com/in/guilhermeferraz2) se precisar de informações profissionais;
 
 ```
-Console.WriteLine("pagina simples mas feita com amor")
+Console.WriteLine("pagina simples mas feita com amor");
 ```
 
 Se puder pode colocar uma estrelinha no [repo](https://github.com/awsmgui/guilhermeferraz.com) dela eu agradeço;
