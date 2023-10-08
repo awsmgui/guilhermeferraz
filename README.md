@@ -3,8 +3,8 @@
 esse site é meu site pessoal onde estarão todos os meus projetos, trabalhos e informações;
 
 ## Quem sou eu?
-Comecei meus estudos na área de tecnologia por meio do curso técnico de TI na escola ETEC de Mauá em 2017.
-Atualmente estou cursando Analise e Desenvolvimento de Sistemas, buscando estágio.
+Comecei meus estudos na área de tecnologia por meio do curso técnico de TI na escola ETEC de Mauá em 2017, atualmente estou cursando Analise e Desenvolvimento de Sistemas, procurando estágio.
+
 Sou estudante de programação Back-End, atualmente estou estudando e fazendo projetos com C# usando o .NET Core, ASP.NET CORE e PostgreSQL.
 Possuo conhecimentos em HTML, CSS e JavaScript;
 
