@@ -3,29 +3,26 @@
 esse site é meu site pessoal onde estarão todos os meus projetos, trabalhos e informações;
 
 ## Quem sou eu?
-Comecei meus estudos na área de tecnologia por meio do curso técnico de TI na escola ETEC de Mauá em 2017, atualmente estou cursando Analise e Desenvolvimento de Sistemas, procurando estágio.
+Principais tecnologias: C#, .NET, ASP.NET, HTML, Javascript, Microsoft SQL Server
+Outras tecnologias e ferramentas: Microsoft Blazor, Angular, docker, git
 
-Sou estudante de programação Back-End, atualmente estou estudando e fazendo projetos com C# usando o .NET Core, ASP.NET CORE e PostgreSQL.
-Possuo conhecimentos em HTML, CSS e JavaScript;
+Sobre mim:
 
-Aqui eu tenho organizado todos os links de contato, github e afins;
+Adoro aprender assuntos novos e tecnologias, além ter uma alta adaptabilidade a situações e tecnologias, o que me faz buscar a aprender mais ferramentas para adaptar em cada situação.
+
+Graduando em Análise e Desenvolvimento de Sistemas na Descomplica Faculdade Digital, onde aprendo conceitos e práticas de programação, banco de dados. Sou graduado no técnico de TI pela ETEC de Mauá, onde adquiri conhecimentos em desenvolvimento de software com C# Windows forms, instalação de software, redes de computadores e segurança da informação. 
 
 ## O que eu procuro com desenvolvimento?
 
-Procuro melhorar o desempenho de aplicações WEB, projetos pessoais e meu conhecimento geral;
-
-### Livros que estou lendo (Ordem de inicio)
-- [Entendendo Algoritimos](https://a.co/d/ddxpTwm)
-- [Codigo Limpo](https://a.co/d/aF1qeVT)
-- [14 Hábitos de Desenvolvedores Altamente Produtivos](https://a.co/d/4DrckWM)
-
+Meu objetivo é me aperfeiçoar cada vez mais na área de desenvolvimento web e contribuir para projetos inovadores e desafiadores.
 
 ## Redes
-[GitHub](https://github.com/awsmgui) onde ficam meus projetos e rascunhos;
 
-[Linkedin](www.linkedin.com/in/guilhermeferraz2) se precisar de informações profissionais;
+[GitHub](https://github.com/awsmgui) Portfolio de projetos, aqui você vai encontrar projetos pessoais;
 
-```
+[Linkedin](www.linkedin.com/in/guilhermeferraz2) informações profissionais e a unica rede social que uso atualmente;
+
+```csharp
 Console.WriteLine("pagina simples mas feita com amor");
 ```
 
